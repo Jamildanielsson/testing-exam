@@ -1,3 +1,5 @@
+// CHECK SO THAT IT IS NOT POSSIBLE TO ADD MORE / LESS COMPARED TO AMOUNT OF PEOPLE THAT ARE PLAYING
+
 describe('check so that shoes corresponds to people playing and show error-message if its not correct spec', () => {
   
     // SETUP

@@ -17,10 +17,10 @@ function Confirmation() {
                     <Input label="When" type="text" customClass="confirmation__input confirmedWhen"
                     defaultValue={ state.confirmationDetails.when.replace('T', ' ') }
                     disabled="disabled" />
-                    <Input label="Who" type="text"  customClass="confirmation__input"
+                    <Input label="Who" type="text"  customClass="confirmation__input confirmedWho"
                     defaultValue={ state.confirmationDetails.people }
                     disabled="disabled" />
-                    <Input label="Lanes" type="text" customClass="confirmation__input"
+                    <Input label="Lanes" type="text" customClass="confirmation__input confirmedLanes"
                     defaultValue={ state.confirmationDetails.lanes }
                     disabled="disabled" />
                     <Input label="Booking number" type="text" customClass="confirmation__input bookingNumber"
