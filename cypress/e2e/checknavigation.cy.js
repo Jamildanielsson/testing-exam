@@ -1,6 +1,6 @@
 // CHECK SO THAT USER CAN NAVIGATE THROUGH THE WEBSITE
 
-describe('Check navigation-alternatives so that the user can easy navigate through the application spec', () => {
+describe('Check navigation-alternatives so that the user easy can navigate through the application spec', () => {
   
    // SETUP
 
